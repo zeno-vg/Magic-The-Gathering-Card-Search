@@ -1,0 +1,20 @@
+{
+	"searchPageAddress":"http://gatherer.wizards.com/Pages/Default.aspx",
+	"searchBoxSelector":"#ctl00_ctl00_MainContent_Content_SearchControls_CardSearchBoxParent_CardSearchBox",
+	"cardIdParmKey":"multiverseid",
+	"cardResultsSelector":".cardlink",
+	"cardNameSelector":"#ctl00_ctl00_ctl00_MainContent_SubContent_SubContentHeader_subtitleDisplay",
+	"cardImageSelector":"#ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_cardImage",
+	"cardDescSelector":".cardtextbox",
+	"cardInfoManaCostSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_manaRow",
+	"cardInfoNameSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_nameRow",
+	"cardInfoConvertManaSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_cmcRow",
+	"cardInfoCreatureTypeSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_typeRow",
+	"cardInfoFlavorTextSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_flavorRow",
+	"cardInfoStatsSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ptRow",
+	"cardInfoArtistSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_artistRow",
+	"cardInfoCardSetNumberSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_numberRow",
+	"cardInfoSetsSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_otherSetsRow",
+	"cardInfoRaritySelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_rarityRow",
+	"cardInfoExpansionSelector":".ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_setRow"
+}
